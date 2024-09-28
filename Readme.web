@@ -1,0 +1,21 @@
+Idean-One
+
+This repository contains the source code for a web project that uses SCSS, CSS, HTML, and JavaScript for frontend design and functionality.
+
+Project Structure
+
+- index.html: The main HTML file for the project.
+- styles.css: The core stylesheet.
+- scripts.js: JavaScript for handling dynamic elements.
+- SCSS files: Various SCSS files for modular styling.
+- bootstrap.min.css: Bootstrap library for responsive design.
+
+Features
+
+- Responsive design using Bootstrap.
+- Organized SCSS for better maintainability.
+
+How to Use
+
+1. Clone the repository.
+2. Open index.html in your browser to view the website.
